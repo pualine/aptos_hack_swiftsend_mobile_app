@@ -48,7 +48,7 @@ SwiftSend is a mobile application pioneering a cross-border payment network that
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/swiftsend.git
+   git clone https://github.com/pualine/aptos_hack_swiftsend_mobile_app.git
    cd swiftsend
 
 2. **Install dependencies**
